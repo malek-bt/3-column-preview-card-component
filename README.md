@@ -35,7 +35,7 @@ Mobile version
 ### Links
 
 - Solution URL: [Code on GitHub](https://github.com/malek-bt)
-- Live Site URL: [GitHub Pages Live URL]()
+- Live Site URL: [GitHub Pages Live URL](https://malek-bt.github.io/3-column-preview-card-component/)
 
 ## My process
 
